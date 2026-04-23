@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 안녕하세요, 백엔드 개발자 박수완입니다.
 
-<!--
-**cake0420/cake0420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> **"데이터의 흐름을 설계하고, 원자적(Atomic) 해결책으로 서비스의 빈틈을 메우는 실행형 개발자"**
+>
+> 단순한 기능 구현을 넘어, 분산 환경에서의 데이터 일관성과 시스템 최적화에 몰입합니다. 새로운 기술을 현업에 빠르게 녹여내는 '실행력'과 복잡한 동시성 문제를 해결하는 '논리력'을 무기로 가치 있는 서비스를 만듭니다.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+
+| Category | Skills |
+| :--- | :--- |
+| **Language & Framework** | Java, Spring Boot, Go, JPA, MyBatis, QueryDSL |
+| **Database & Cache** | PostgreSQL, MySQL, MongoDB, Redis |
+| **Infrastructure** | AWS (S3, RDS, Elastic Beanstalk), Oracle Cloud, Docker, Jenkins |
+
+---
+
+### 🌟 Featured Projects
+
+#### **[CatDogEats]** (2025.06 ~ 2025.07)
+* **반려동물 맞춤 이커머스 플랫폼 (백엔드 팀장)** 
+* **동시성 제어:** Redis Lua 스크립트를 도입하여 동시 로그인 시 발생하던 토큰 중복 발급 문제를 원자적으로 해결 
+* **성능 최적화:** JMeter 성능 테스트를 통해 추천 API 응답 시간을 초기 3초대에서 **800ms 이내로 약 70% 이상 단축** 
+* **비동기 시스템:** RabbitMQ를 활용하여 주문 및 재고 관리 로직의 비동기 처리 구현 
+
+#### **[LinkUp]** (2025.05 ~ 2025.06)
+* **멘토-멘티 매칭 플랫폼** 
+* **추천 엔진:** 벡터 유사도(코사인 유사도) 알고리즘을 설계하고 백엔드 연동 구현 
+* **보안 강화:** JWT 기반 인증/인가 로직 개발로 사용자 데이터 보호 및 서비스 안정성 확보 
+
+#### **[CareerFestival]** (2024.01 ~ 2024.02)
+* **세미나·컨퍼런스 기록 및 행사 관리 서비스** 
+* **구독 및 커뮤니티 시스템:** 주최자 구독 기능 및 댓글/좋아요 등 커뮤니티 핵심 API 설계 및 구현 
+* **참가 관리 로직:** 행사 참가 확정 및 참여 링크 관리 시스템 개발 
+* **클라우드 배포:** **AWS Elastic Beanstalk, S3, RDS**를 활용하여 안정적인 서비스 배포 및 운영 환경 구축 
+
+---
+
+### 📈 Experience & Education
+
+* **Programmers 생성형 AI 백엔드 데브코스** (2025.01 - 2025.07): 실무형 백엔드 역량 및 AI 도구 활용 능력 강화 
+* **Go 서버 개발자 인턴** (2024.05 - 2024.07): 헥사고날 아키텍처 기반 고객센터 모듈 설계 및 GORM 쿼리 최적화로 조회 성능 20% 향상
+* **42 Seoul La Piscine** 수료: 4주간 주 100시간 이상 알고리즘 및 시스템 프로그래밍 집중 학습 
+* **한국항공대학교** 전자공학과 졸업 (2017.03 - 2024.02)
+
+---
+
+### 📬 Contact & Links
+
+* **Email:** nick6767676767@gmail.com 
+* **Blog:** [데브 블로그 주소] 
+
+---
