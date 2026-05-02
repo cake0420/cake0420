@@ -14,6 +14,7 @@
 | **Database & Cache** | PostgreSQL, MySQL, MongoDB, Redis |
 | **Infrastructure** | AWS (S3, RDS, Elastic Beanstalk), Oracle Cloud, Docker, Jenkins |
 
+
 ---
 
 ### 🌟 Featured Projects
@@ -24,16 +25,22 @@
 * **성능 최적화:** JMeter 성능 테스트를 통해 추천 API 응답 시간을 초기 3초대에서 **800ms 이내로 약 70% 이상 단축** 
 * **비동기 시스템:** RabbitMQ를 활용하여 주문 및 재고 관리 로직의 비동기 처리 구현 
 
+https://github.com/Companion-Animals-Project/CatdogEats-BE
+
 #### **[LinkUp]** (2025.05 ~ 2025.06)
 * **멘토-멘티 매칭 플랫폼** 
 * **추천 엔진:** 벡터 유사도(코사인 유사도) 알고리즘을 설계하고 백엔드 연동 구현 
-* **보안 강화:** JWT 기반 인증/인가 로직 개발로 사용자 데이터 보호 및 서비스 안정성 확보 
+* **보안 강화:** JWT 기반 인증/인가 로직 개발로 사용자 데이터 보호 및 서비스 안정성 확보
+
+https://github.com/Big-O1-project02/AIBE1-Project2-Team05-backend
 
 #### **[CareerFestival]** (2024.01 ~ 2024.02)
 * **세미나·컨퍼런스 기록 및 행사 관리 서비스** 
 * **구독 및 커뮤니티 시스템:** 주최자 구독 기능 및 댓글/좋아요 등 커뮤니티 핵심 API 설계 및 구현 
 * **참가 관리 로직:** 행사 참가 확정 및 참여 링크 관리 시스템 개발 
 * **클라우드 배포:** **AWS Elastic Beanstalk, S3, RDS**를 활용하여 안정적인 서비스 배포 및 운영 환경 구축 
+
+https://github.com/Career-Festival/Backend
 
 ---
 
